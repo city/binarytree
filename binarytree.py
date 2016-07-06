@@ -1,4 +1,4 @@
-ass Tree:
+class Tree:
 
     root = None
     def __init__(self):
